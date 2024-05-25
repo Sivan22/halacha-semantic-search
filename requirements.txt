@@ -1,0 +1,9 @@
+pandas
+streamlit
+torch
+transformers
+datasets
+langchain_huggingface
+langchain_openai
+langchain
+sentence_transformers
